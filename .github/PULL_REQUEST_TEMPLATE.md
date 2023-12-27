@@ -1,5 +1,5 @@
 ## Related Tickets & Documents
-[Issue JIRA FRONT-XXXX](https://repam.atlassian.net/jira/software/projects/FRONT/boards/1?selectedIssue=FRONT-XXX)
+- https://repam.atlassian.net/jira/software/projects/FRONT/boards/1?selectedIssue=FRONT-XXX
 
 ## What type of PR is this? (check all applicable)
 - [ ] 🍕 Feature
@@ -15,12 +15,12 @@
 - [ ] ⏩ Revert
 
 ## Steps to QA
-
+<!--
 1. Click a link
 2. Do this thing
 3. ....
 4. Validate you see the thing working
-
+-->
 
 ## Mobile & Desktop Screenshots/Recordings
 
