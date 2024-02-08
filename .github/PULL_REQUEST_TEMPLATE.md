@@ -11,8 +11,10 @@
 - [ ] ✅ Test
 - [ ] 🤖 Build
 - [ ] 🔁 CI
-- [ ] 📦 Chore (Release)
-- [ ] ⏩ Revert
+
+## Mobile & Desktop Screenshots/Recordings
+
+<!-- Visual changes require screenshots -->
 
 ## Steps to QA
 <!--
@@ -21,20 +23,3 @@
 3. ....
 4. Validate you see the thing working
 -->
-
-## Mobile & Desktop Screenshots/Recordings
-
-<!-- Visual changes require screenshots -->
-
-## Added/updated tests?
-
-- [ ] Yes
-- [ ] No, and this is why: _please replace this line with details on why tests
-  have not been included_
-- [ ] I need help with writing tests
-
-## Added to documentation?
-
-- [ ] 📜 README.md
-- [ ] 📓 Architecture decision record
-- [ ] 🙅 no documentation needed
