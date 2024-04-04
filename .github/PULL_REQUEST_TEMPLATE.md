@@ -1,5 +1,5 @@
 ## Related Tickets & Documents
-- https://repam.atlassian.net/jira/software/projects/FRONT/boards/1?selectedIssue=FRONT-XXX
+- https://repam.atlassian.net/browse/TK-XXX
 
 ## What type of PR is this? (check all applicable)
 - [ ] 🍕 Feature
